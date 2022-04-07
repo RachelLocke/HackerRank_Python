@@ -3,7 +3,7 @@
 # Author: Rachel Locke
 # Date: April 6, 2022
 # ---------------------------------------------------------------------------------------------------
-# Project: If-Else by Hacker Rank
+# Project: Division by Hacker Rank
 # Task:
 #   The provided code stub reads two integers, a and b , from STDIN.
 #
