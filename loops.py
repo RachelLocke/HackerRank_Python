@@ -3,7 +3,7 @@
 # Author: Rachel Locke
 # Date: April 6, 2022
 # ---------------------------------------------------------------------------------------------------
-# Project: If-Else by Hacker Rank
+# Project: Loops by Hacker Rank
 # Task:
 #   The provided code stub reads and integer, n, from STDIN. For all non-negative integers i < n, 
 #   print i^2.
